@@ -1,0 +1,2 @@
+> git remote add https-//github.com/Sipal00/assignment https://github.com/Sipal00/assignment.git
+fatal: 'https-//github.com/Sipal00/assignment' is not a valid remote name
